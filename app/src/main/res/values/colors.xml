@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--新版颜色代码-->
+    <!--导航栏背景、需要突出的文字、按钮和ICON-->
+    <color name="new_purple">#6c83fa</color>
+    <!--用于未读消息提示状态、删除按钮、价格和警示文字-->
+    <color name="new_red">#ff4559</color>
+    <!--配送任务列表序号字体颜色-->
+    <color name="new_red_number">#ff7c8a</color>
+    <!--小面积使用，用于正确操作提示ICON和文字-->
+    <color name="new_green">#44cd72</color>
+    <!--小面积使用，用于操作进行中状态提示-->
+    <color name="new_orange">#ffb554</color>
+    <!--用于链接文字颜色-->
+    <color name="new_blue">#5EE8F8</color>
+    <!--用于主要文字，通讯录联系人名称-->
+    <color name="new_black">#000000</color>
+    <!--用于标签性文字-->
+    <color name="new_grey1">#555555</color>
+    <!--用于辅助次要文字和正文-->
+    <color name="new_grey2">#999999</color>
+    <!--用于页面说明文字和输入框内提示文字-->
+    <color name="new_grey3">#bbbbbb</color>
+    <!--用于分割线和表格线-->
+    <color name="new_grey4">#dfdfdf</color>
+    <!--用于输入框内底色、点击交换背景色和表头背景色 -->
+    <color name="new_grey5">#eeeeee</color>
+    <!--用于内容区域背景底色-->
+    <color name="new_grey6">#f1f1f1</color>
+    <!--用于tible下拉菜单-->
+    <color name="new_grey7">#f8f8f8</color>
+    <!--用户前所在栏目名称、反白文字颜色-->
+    <color name="new_white">#ffffff</color>
+    <!--透明背景-->
+    <color name="new_transparent">#00000000</color>
+    <!--黑色透明背景-->
+    <color name="new_transparent_black">#55000000</color>
+</resources>

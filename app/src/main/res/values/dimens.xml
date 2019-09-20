@@ -1,0 +1,14 @@
+<resources>
+    <!--用于少数重要标题、按钮-->
+    <dimen name="font_18sp">18sp</dimen>
+    <!--用于功能按钮、分类标题，联系人昵称，正文内容 -->
+    <dimen name="font_16sp">16sp</dimen>
+    <!--用于次要文字 -->
+    <dimen name="font_14sp">14sp</dimen>
+    <!--用于输入框提示文字-->
+    <dimen name="font_13sp">13sp</dimen>
+    <!--用于辅助性文字-->
+    <dimen name="font_12sp">12sp</dimen>
+    <!--用于辅助性文字-->
+    <dimen name="font_11sp">11sp</dimen>
+</resources>
